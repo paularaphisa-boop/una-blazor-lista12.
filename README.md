@@ -24,9 +24,8 @@ Todos os componentes seguem o mesmo padrão visual e de interação (título, co
 ---
 
 ## ▶️ Guia de Execução
-
-📌 1. Criar o projeto
 ```bash
+📌 1. Criar o projeto
 dotnet new blazor -n EcoMonitor
 📌 2. Acessar a pasta do projeto
 cd EcoMonitor
